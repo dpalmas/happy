@@ -45,7 +45,7 @@ Estilos:
 Aplicação para agendar visitas em orfanatos para crianças, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 <p align="center">
-  <img alt="Happy" src=".github/happy
+  <img alt="Happy" src=".github/happy.png
   .png" width="100%">
 </p>
 
