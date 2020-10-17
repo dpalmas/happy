@@ -46,7 +46,7 @@ Essa aplicação esta sendo desenvolvida durante a **Next Level Week #3**, proje
 
 
 <p align="center">
-  <img alt="" src=".github/Proffy.png" width="100%">
+  <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
 ## :computer: Instalação
