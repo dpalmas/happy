@@ -42,11 +42,11 @@ Estilos:
 
 ## :thinking: Sobre este Projeto
   
-Essa aplicação esta sendo desenvolvida durante a **Next Level Week #3**, projeto da [Rocketseat](https://rocketseat.com.br/).
-
+Aplicação para agendar visitas em orfanatos para crianças, projeto da [Rocketseat](https://rocketseat.com.br/).
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src=".github/happy
+  .png" width="100%">
 </p>
 
 ## :computer: Instalação
